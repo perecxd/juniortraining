@@ -12,6 +12,7 @@ public class Main {
     st1.pay(1000);
     st1.showCourses();
     st1.checkBalance();
+        System.out.println("extra kód, hogy github örüljön");
 
     }
 }
