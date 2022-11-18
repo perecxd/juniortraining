@@ -70,7 +70,7 @@ public class Student {
    }
 
    public void showCourses(){
-       System.out.println(name+" is currently enrolled in: "+takeclass);
+       System.out.println(name+" is currently enrolled in : "+takeclass);
    }
 
    public void checkBalance(){
